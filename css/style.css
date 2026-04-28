@@ -1,0 +1,11 @@
+/*
+****** LIMPAR FORMATAÇÕES ******
+*/
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cab{
+    background-color: #0066CC;
+}
